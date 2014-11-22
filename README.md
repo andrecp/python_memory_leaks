@@ -1,4 +1,4 @@
-Lessons learned on Python Memory Leak
+Notes on Python Memory Leaks
 =======
 
 Tools
